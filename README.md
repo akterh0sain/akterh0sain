@@ -7,9 +7,8 @@
 ![Profile views](https://gpvc.arturio.dev/akterh0sain) 
 
 Welcome to my GitHub profile. I am a Full Stack Web Developer and Designer. 
-Knock me: m.facebook.com/akterh0sain
 
-Skills: BOOTSTRAP/ REACT / JS / HTML / CSS / PHP / MySql
+Skills: BOOTSTRAP / REACT / JS / HTML / CSS / PHP / MySql
  
 
 - 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/akterh0sain)
@@ -24,15 +23,13 @@ Skills: BOOTSTRAP/ REACT / JS / HTML / CSS / PHP / MySql
 
 - 📫 How to reach me **akterh0sain@outlook.com**
 
-- 📄 All About Me:[https://linktr.ee/akterh0sain](https://linktr.ee/akterh0sain)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/akterh0sain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul.qcsc" height="30" width="40" /></a>
 <a href="https://twitter.com/akterh0sain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akterh0sain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://instagram.com/akterh0sain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-
- </p> </a>
+<a href="https://instagram.com/akterh0sain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
