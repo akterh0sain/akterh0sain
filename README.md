@@ -1,7 +1,7 @@
 ![I am akterh0sain](https://github.com/harun181/harun181/blob/main/page.png)
 
 
-<h1 align="center">Hi 👋, I'm Akter Hosain(Tutul)</h1>
+<h1 align="center">Hi 👋, I'm Akter Hosain</h1>
 <h3 align="center">Web Developer and Designer</h3>
 
 ![Profile views](https://gpvc.arturio.dev/akterh0sain) 
