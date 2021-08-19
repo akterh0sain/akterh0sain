@@ -32,7 +32,7 @@ Skills: BOOTSTRAP/ REACT / JS / HTML / CSS / PHP / MySql
 <a href="https://twitter.com/akterh0sain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akterh0sain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
 <a href="https://instagram.com/akterh0sain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-
-</p>
+ </p> </a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
