@@ -1,4 +1,4 @@
-![I am akterh0sain](https://github.com/harun181/harun181/blob/main/page.png)
+![I am akterh0sain](https://github.com/akterh0sain/akterh0sain/blob/main/Welcome.png)
 
 
 <h1 align="center">Hi 👋, I'm Akter Hosain</h1>
@@ -12,13 +12,13 @@ Knock me: m.facebook.com/akterh0sain
 Skills: BOOTSTRAP/ REACT / JS / HTML / CSS / PHP / MySql
  
 
-- 🔭 I’m currently working on [Hablu Programmer Team](https://www.fiverr.com/akterh0sain)
+- 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/akterh0sain)
 
-- 🌱 I’m currently learning **JS, React**, MongoDB, Express.js, Node.js**
+- 🌱 I’m currently learning **JS, React**, MongoDB, Express.js, Node.js
 
 - 👨‍💻 All of my projects are available at [https://github.com/akterh0sain](https://github.com/akterh0sain)
 
-- 📝 I regularly write articles on [https://habluprogrammer.com/](https://akterhosain.com/)
+- 📝 I regularly write articles on [https://akterhosain.com/](https://akterhosain.com/)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
